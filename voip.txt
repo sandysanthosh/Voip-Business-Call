@@ -159,6 +159,136 @@ using your effectively:
 volume/pace/pitch/
 
 
+identify who is speaking?
+
+
+attende:
+
+this is amber i'll ask ux designer
+
+organizer:
+activvely facilitate
+ensure eberyone gets a turn and participate
+ask for questions
+
+attendee:
+particiapate
+don't interrut:wait for break to  interject
+->may i add something
+->if i could jumpin
+->excuse me
+
+practice active listening:
+listen and try to picture what they are saying
+-dont think about what your going to say next
+
+avoid interrupting
+ask question to confirm understanding
+give regular feedback
+
+multitasking:
+
+active listening
+focus
+group chat r private chat
+
+wrapping the call:
+
+start->
+
+organizer:
+ask the questions
+summarize the call,decision made and next steps
+ensure actions are documented and assigned
+
+attendee:
+
+ask for question if u have
+put all input items together
+
+after the call:
+-->summarizing and following up the call
+
+preparing the summary:
+use notes takend during the call
+
+documentation:
+what to include in the summary notes
+your paper trail
+summary of discussion
+decision made
+outstangin questions
+deck or other pertinent artifacts
+next steps and action items
+
+action item details:
+id
+description
+owner
+due-date 
+status
+comments
+
+include attendess and anyone who couldnt attend
+SUMMARY NOTES: Roles and Responsibilities
+
+Hi Team,
+
+Thank you for attending today's call to discuss the roles and responsibiliets 
+for the new mobile app. please find summary notes and the deck from the call below.
+
+Summary of Discussion
+...
+Decisions
+...
+Outstanding Questions
+...
+
+
+FOLLOW UP: Roles and Responsibilities
+
+
+important steps:
+
+define the purpose for the call
+determint if a call is the best way to communicate
+create an agenda
+invite the right people
+scheduele at time convieent for all the users
+choose right tool
+
+during the call:
+
+use voice effectively
+identify who speaking
+facilitate
+particiapte
+pracitice active listening
+focus(no multi-tasking)
+
+end of call:
+
+ask for questions
+summarize and actions to be done
+
+after the call:
+
+document and send out summary notes including action idems'
+schedule follow up meetings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
